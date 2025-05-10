@@ -1,0 +1,14 @@
+{
+  "Aries": ["Carnelian", "Red Jasper"],
+  "Taurus": ["Emerald", "Rose Quartz"],
+  "Gemini": ["Citrine", "Tiger's Eye"],
+  "Cancer": ["Moonstone", "Selenite"],
+  "Leo": ["Sunstone", "Pyrite"],
+  "Virgo": ["Amazonite", "Peridot"],
+  "Libra": ["Lapis Lazuli", "Rose Quartz"],
+  "Scorpio": ["Obsidian", "Malachite"],
+  "Sagittarius": ["Turquoise", "Amethyst"],
+  "Capricorn": ["Garnet", "Smoky Quartz"],
+  "Aquarius": ["Aquamarine", "Labradorite"],
+  "Pisces": ["Amethyst", "Fluorite"]
+} 

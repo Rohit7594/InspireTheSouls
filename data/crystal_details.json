@@ -1,0 +1,350 @@
+{
+  "Amazonite": {
+    "description": "A soothing crystal that balances emotions and encourages clear communication.",
+    "element": "Water",
+    "origin": ["Brazil", "Russia", "India", "United States", "South Africa", "Australia"],
+    "chakra": ["Heart", "Throat"],
+    "healing_properties": [
+      "Promotes emotional balance",
+      "Encourages open and truthful communication",
+      "Calms overthinking and anxiety"
+    ],
+    "usage": "Wear Amazonite jewelry or place it on your throat during meditation to enhance communication and emotional clarity."
+  },
+  "Amethyst": {
+    "description": "A spiritual crystal known for its calming and protective properties.",
+    "element": "Air",
+    "origin": ["Brazil", "Zambia", "Uruguay", "South Korea", "Russia", "India", "United States"],
+    "chakra": ["Third Eye", "Crown"],
+    "healing_properties": [
+      "Enhances intuition and spiritual awareness",
+      "Relieves stress and anxiety",
+      "Supports sobriety and focus"
+    ],
+    "usage": "Keep Amethyst under your pillow to improve sleep or meditate with it to enhance intuition."
+  },
+  "Aquamarine": {
+    "description": "A tranquil crystal that enhances clarity and emotional balance.",
+    "element": "Water",
+    "origin": ["Brazil", "Nigeria", "Pakistan", "Madagascar", "Mozambique", "United States", "China"],
+    "chakra": ["Throat"],
+    "healing_properties": [
+      "Encourages self-expression",
+      "Alleviates fear and overthinking",
+      "Promotes emotional resilience"
+    ],
+    "usage": "Hold Aquamarine during meditation or carry it to foster clear communication and calm."
+  },
+  "Carnelian": {
+    "description": "A vibrant crystal that boosts motivation and creativity.",
+    "element": "Fire",
+    "origin": ["India", "Brazil", "Uruguay", "Indonesia", "Egypt", "Yemen", "Germany"],
+    "chakra": ["Sacral"],
+    "healing_properties": [
+      "Ignites passion and vitality",
+      "Boosts confidence and courage",
+      "Stimulates creativity"
+    ],
+    "usage": "Place Carnelian on your Sacral Chakra to inspire energy and creativity."
+  },
+  "Citrine": {
+    "description": "A sunny crystal that attracts abundance and positivity.",
+    "element": "Fire",
+    "origin": ["Brazil", "Russia", "Madagascar", "Spain", "France", "United States", "Bolivia"],
+    "chakra": ["Solar Plexus"],
+    "healing_properties": [
+      "Attracts prosperity and success",
+      "Promotes joy and optimism",
+      "Enhances self-confidence"
+    ],
+    "usage": "Keep Citrine in your workspace to manifest abundance and clarity."
+  },
+  "Clear Quartz": {
+    "description": "A versatile crystal that amplifies energy and intention.",
+    "element": "All",
+    "origin": ["Brazil", "Madagascar", "United States", "Switzerland", "Japan", "Russia", "South Africa", "Australia"],
+    "chakra": ["Crown"],
+    "healing_properties": [
+      "Amplifies intentions and energy",
+      "Enhances spiritual connection",
+      "Supports clarity and focus"
+    ],
+    "usage": "Use Clear Quartz as a focal point during Reiki or meditation to amplify its effects."
+  },
+  "Emerald": {
+    "description": "A regal crystal associated with growth and love.",
+    "element": "Earth",
+    "origin": ["Colombia", "Zambia", "Brazil", "Afghanistan", "Pakistan", "Russia", "Ethiopia"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Encourages emotional balance",
+      "Promotes love and compassion",
+      "Supports spiritual growth"
+    ],
+    "usage": "Wear Emerald close to your heart or place it in your meditation space for enhanced healing."
+  },
+  "Fluorite": {
+    "description": "A clarifying crystal for mental focus and spiritual growth.",
+    "element": "Air",
+    "origin": ["China", "Mexico", "England", "Germany", "Spain", "Russia", "United States", "South Africa"],
+    "chakra": ["Third Eye", "Crown"],
+    "healing_properties": [
+      "Boosts mental clarity",
+      "Protects against negativity",
+      "Supports spiritual awakening"
+    ],
+    "usage": "Place Fluorite on your desk to enhance focus or hold it during meditation for clarity."
+  },
+  "Garnet": {
+    "description": "A grounding crystal that revitalizes energy and passion.",
+    "element": ["Fire", "Earth"],
+    "origin": ["India", "Madagascar", "Brazil", "United States", "Russia", "South Africa", "Australia", "Czech Republic"],
+    "chakra": ["Root", "Sacral"],
+    "healing_properties": [
+      "Enhances vitality and strength",
+      "Stimulates passion and commitment",
+      "Grounds emotional energy"
+    ],
+    "usage": "Wear Garnet as a pendant or meditate with it to ignite your inner fire."
+  },
+  "Green Aventurine": {
+    "description": "A lucky crystal that invites opportunity and harmony.",
+    "element": "Earth",
+    "origin": ["Brazil", "India", "Russia", "Tanzania", "Austria", "China", "United States"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Attracts luck and prosperity",
+      "Promotes emotional healing",
+      "Encourages personal growth"
+    ],
+    "usage": "Carry Green Aventurine in your wallet to attract abundance."
+  },
+  "Labradorite": {
+    "description": "A mystical crystal for transformation and intuition.",
+    "element": "Water",
+    "origin": ["Madagascar", "Canada", "Finland", "Russia", "Norway", "Australia", "United States"],
+    "chakra": ["Third Eye"],
+    "healing_properties": [
+      "Enhances psychic abilities",
+      "Protects against negative energies",
+      "Promotes transformation and resilience"
+    ],
+    "usage": "Meditate with Labradorite to enhance intuition and spiritual growth."
+  },
+  "Lapis Lazuli": {
+    "description": "A wisdom crystal that deepens spiritual understanding.",
+    "element": "Air",
+    "origin": ["Afghanistan", "Chile", "Russia", "United States", "Canada", "Pakistan", "Italy"],
+    "chakra": ["Throat", "Third Eye"],
+    "healing_properties": [
+      "Enhances self-awareness and wisdom",
+      "Encourages truthful expression",
+      "Promotes inner peace"
+    ],
+    "usage": "Wear Lapis Lazuli as jewelry to enhance wisdom and communication."
+  },
+  "Malachite": {
+    "description": "A transformative crystal for protection and emotional growth.",
+    "element": "Earth",
+    "origin": ["Congo", "Zambia", "Russia", "Australia", "United States", "France", "Israel"],
+    "chakra": ["Heart", "Solar Plexus"],
+    "healing_properties": [
+      "Absorbs negative energy",
+      "Promotes emotional healing",
+      "Encourages transformation and change"
+    ],
+    "usage": "Place Malachite on your heart chakra to release emotional blockages and enhance healing."
+  },
+  "Moonstone": {
+    "description": "A nurturing crystal that enhances intuition and emotional balance.",
+    "element": "Water",
+    "origin": ["India", "Sri Lanka", "Australia", "United States", "Brazil", "Tanzania", "Madagascar"],
+    "chakra": ["Crown", "Third Eye"],
+    "healing_properties": [
+      "Enhances intuition and psychic abilities",
+      "Supports emotional balance",
+      "Promotes feminine energy and fertility"
+    ],
+    "usage": "Wear Moonstone as a pendant or meditate with it during a full moon to harness its energy."
+  },
+  "Obsidian": {
+    "description": "A grounding crystal that protects and transforms.",
+    "element": "Earth",
+    "origin": ["United States", "Mexico", "Iceland", "Italy", "Japan", "New Zealand", "Armenia"],
+    "chakra": ["Root"],
+    "healing_properties": [
+      "Shields against negativity",
+      "Grounds spiritual energy",
+      "Encourages self-reflection and truth"
+    ],
+    "usage": "Place Obsidian in your living space to ward off negative energy or meditate with it to uncover hidden truths."
+  },
+  "Onyx": {
+    "description": "A stabilizing crystal for focus and strength.",
+    "element": "Earth",
+    "origin": ["Brazil", "India", "United States", "Madagascar", "Uruguay", "Pakistan", "Yemen"],
+    "chakra": ["Root"],
+    "healing_properties": [
+      "Strengthens focus and determination",
+      "Protects against negativity",
+      "Provides emotional grounding"
+    ],
+    "usage": "Carry Onyx with you during challenging times to maintain focus and courage."
+  },
+  "Peridot": {
+    "description": "A rejuvenating crystal that inspires growth and abundance.",
+    "element": "Earth",
+    "origin": ["Egypt", "United States", "China", "Pakistan", "Myanmar", "Australia", "South Africa"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Encourages emotional healing",
+      "Attracts abundance and prosperity",
+      "Inspires renewal and growth"
+    ],
+    "usage": "Wear Peridot near your heart to attract love and positive energy."
+  },
+  "Pink Tourmaline": {
+    "description": "A loving crystal that heals the heart and promotes compassion.",
+    "element": "Water",
+    "origin": ["Brazil", "Afghanistan", "United States", "Madagascar", "Nigeria", "Mozambique", "Pakistan"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Encourages self-love and compassion",
+      "Heals emotional wounds",
+      "Balances emotions and promotes relaxation"
+    ],
+    "usage": "Meditate with Pink Tourmaline to release emotional pain and embrace love."
+  },
+  "Pyrite": {
+    "description": "A vibrant crystal for abundance and confidence.",
+    "element": ["Fire", "Earth"],
+    "origin": ["Peru", "Spain", "Italy", "United States", "Russia", "South Africa", "Australia"],
+    "chakra": ["Solar Plexus"],
+    "healing_properties": [
+      "Attracts wealth and success",
+      "Enhances confidence and willpower",
+      "Protects against negativity"
+    ],
+    "usage": "Place Pyrite on your desk to attract abundance and focus in your work."
+  },
+  "Red Jasper": {
+    "description": "A grounding crystal that nurtures strength and stability.",
+    "element": "Earth",
+    "origin": ["India", "Brazil", "Russia", "United States", "Germany", "France", "South Africa"],
+    "chakra": ["Root"],
+    "healing_properties": [
+      "Provides stability and balance",
+      "Stimulates courage and confidence",
+      "Grounds emotional energy"
+    ],
+    "usage": "Place Red Jasper under your pillow for grounding or meditate with it for strength."
+  },
+  "Rhodonite": {
+    "description": "A compassionate crystal that heals emotional wounds.",
+    "element": "Earth",
+    "origin": ["Russia", "Australia", "Sweden", "United States", "Brazil", "Canada", "South Africa"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Encourages forgiveness and compassion",
+      "Heals emotional wounds",
+      "Promotes self-love"
+    ],
+    "usage": "Carry Rhodonite with you to maintain emotional balance throughout the day."
+  },
+  "Rose Quartz": {
+    "description": "A nurturing crystal for unconditional love and harmony.",
+    "element": "Water",
+    "origin": ["Brazil", "Madagascar"],
+    "chakra": ["Heart"],
+    "healing_properties": [
+      "Promotes love and compassion",
+      "Heals emotional pain",
+      "Attracts romantic relationships"
+    ],
+    "usage": "Keep Rose Quartz in your bedroom to enhance love and harmony."
+  },
+  "Ruby": {
+    "description": "A fiery crystal that inspires passion and vitality.",
+    "element": "Fire",
+    "origin": ["Myanmar", "India"],
+    "chakra": ["Root", "Heart"],
+    "healing_properties": [
+      "Enhances vitality and passion",
+      "Encourages confidence and courage",
+      "Promotes love and commitment"
+    ],
+    "usage": "Wear Ruby as a ring or pendant to ignite passion and energy."
+  },
+  "Selenite": {
+    "description": "A cleansing crystal that promotes peace and clarity.",
+    "element": "Air",
+    "origin": ["Morocco", "Mexico"],
+    "chakra": ["Crown"],
+    "healing_properties": [
+      "Clears negative energy",
+      "Enhances spiritual connection",
+      "Promotes mental clarity"
+    ],
+    "usage": "Use Selenite wands to cleanse your aura or space."
+  },
+  "Smoky Quartz": {
+    "description": "A protective crystal that grounds and stabilizes energy.",
+    "element": "Earth",
+    "origin": ["Brazil", "Scotland"],
+    "chakra": ["Root"],
+    "healing_properties": [
+      "Grounds spiritual energy",
+      "Protects against negativity",
+      "Promotes emotional stability"
+    ],
+    "usage": "Carry Smoky Quartz in your pocket during stressful situations for grounding."
+  },
+  "Sunstone": {
+    "description": "A vibrant crystal for positivity and leadership.",
+    "element": "Fire",
+    "origin": ["Norway", "India"],
+    "chakra": ["Solar Plexus"],
+    "healing_properties": [
+      "Encourages joy and optimism",
+      "Promotes leadership and confidence",
+      "Boosts vitality"
+    ],
+    "usage": "Hold Sunstone during the morning to start your day with positivity."
+  },
+  "Tiger's Eye": {
+    "description": "A protective crystal that enhances focus and courage.",
+    "element": ["Fire", "Earth"],
+    "origin": ["South Africa", "India"],
+    "chakra": ["Solar Plexus"],
+    "healing_properties": [
+      "Encourages courage and confidence",
+      "Promotes mental clarity",
+      "Attracts prosperity"
+    ],
+    "usage": "Wear Tiger's Eye as jewelry to stay focused and courageous."
+  },
+  "Turquoise": {
+    "description": "A healing crystal that fosters protection and communication.",
+    "element": ["Water", "Earth"],
+    "origin": ["USA", "Iran"],
+    "chakra": ["Throat"],
+    "healing_properties": [
+      "Encourages communication and self-expression",
+      "Protects against negativity",
+      "Promotes spiritual balance"
+    ],
+    "usage": "Place Turquoise near your Throat Chakra during meditation to enhance communication."
+  },
+  "Yellow Jasper": {
+    "description": "A nurturing crystal that promotes protection and energy.",
+    "element": "Earth",
+    "origin": ["India", "Madagascar"],
+    "chakra": ["Solar Plexus"],
+    "healing_properties": [
+      "Boosts confidence and energy",
+      "Protects against negativity",
+      "Encourages optimism"
+    ],
+    "usage": "Meditate with Yellow Jasper to stabilize your energy and boost confidence."
+  }
+} 

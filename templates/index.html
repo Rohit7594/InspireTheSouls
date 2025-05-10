@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Aura Flex - Crystal Recommender</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover your personalized crystal recommendations based on your birth energy and intentions with The Aura Flex">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="brand-logo">
+            <h2>The Aura Flex</h2>
+        </div>
+        <header>
+            <h1>Crystal Recommender</h1>
+            <p class="subtitle">Discover your personalized crystal recommendations based on your birth energy and intentions</p>
+        </header>
+
+        <main>
+            <form method="POST" class="crystal-form">
+                <div class="form-group">
+                    <label for="name">Enter your Name:</label>
+                    <input type="text" id="name" name="name" required placeholder="Your name" autocomplete="name">
+                </div>
+                <div class="form-group">
+                    <label for="dob">Enter your Date of Birth:</label>
+                    <input type="date" id="dob" name="dob" required>
+                </div>
+                <div class="form-group">
+                    <label for="intention">Select your Primary Intention:</label>
+                    <select id="intention" name="intention" required>
+                        <option value="">--Please choose an intention--</option>
+                        <option value="Health">Health & Well-being</option>
+                        <option value="Wealth">Wealth & Abundance</option>
+                        <option value="Love">Love & Relationships</option>
+                    </select>
+                </div>
+                <button type="submit" class="submit-btn">Discover Your Crystals</button>
+            </form>
+
+            {% if recommendations %}
+                {% if recommendations.Error %}
+                    <div class="error-message">
+                        <p>{{ recommendations.Error }}</p>
+                    </div>
+                {% else %}
+                    <div class="results">
+                        <h2>Your Reiki Crystal Profile</h2>
+                        
+                        <div class="profile-section">
+                            <div class="welcome-message">
+                                <h3>✨ Welcome to Your Crystal Journey, {{ recommendations['Name'] }}! ✨</h3>
+                                <p class="welcome-text">Your cosmic energy has been analyzed, and we're excited to reveal your personalized crystal recommendations. Each crystal has been carefully selected to align with your unique energetic blueprint.</p>
+                            </div>
+                            <div class="profile-details">
+                                <div class="profile-card">
+                                    <h4>🌟 Your Cosmic Identity</h4>
+                                    <p><strong>Zodiac Sign:</strong> {{ recommendations['Zodiac Sign'] }}</p>
+                                    <p class="zodiac-description">As a {{ recommendations['Zodiac Sign'] }}, you possess natural grounding energy and a strong connection to the Earth element. Your crystals will enhance these innate qualities.</p>
+                                </div>
+                                <div class="profile-card">
+                                    <h4>🔢 Your Root Number</h4>
+                                    <p><strong>Root Number:</strong> {{ recommendations['Root Number'] }}</p>
+                                    <p class="numerology-description">
+                                        {% if recommendations['Root Number'] == 1 %}
+                                            As a Root Number 1, you are a natural leader with strong independence and creativity. You possess pioneering spirit and determination to achieve your goals.
+                                        {% elif recommendations['Root Number'] == 2 %}
+                                            As a Root Number 2, you are diplomatic, cooperative, and intuitive. You excel in partnerships and have a natural ability to bring harmony to any situation.
+                                        {% elif recommendations['Root Number'] == 3 %}
+                                            As a Root Number 3, you are expressive, creative, and optimistic. You have a natural talent for communication and bringing joy to others.
+                                        {% elif recommendations['Root Number'] == 4 %}
+                                            As a Root Number 4, you are practical, organized, and reliable. You excel at building strong foundations and have a natural talent for structure.
+                                        {% elif recommendations['Root Number'] == 5 %}
+                                            As a Root Number 5, you are adventurous, adaptable, and freedom-loving. You thrive on change and have a natural curiosity about life.
+                                        {% elif recommendations['Root Number'] == 6 %}
+                                            As a Root Number 6, you are nurturing, responsible, and compassionate. You have a natural talent for creating harmony and caring for others.
+                                        {% elif recommendations['Root Number'] == 7 %}
+                                            As a Root Number 7, you are analytical, spiritual, and introspective. You have a natural talent for deep thinking and understanding life's mysteries.
+                                        {% elif recommendations['Root Number'] == 8 %}
+                                            As a Root Number 8, you are ambitious, authoritative, and goal-oriented. You have a natural talent for manifesting abundance and success.
+                                        {% elif recommendations['Root Number'] == 9 %}
+                                            As a Root Number 9, you are humanitarian, compassionate, and wise. You have a natural talent for understanding others and making a positive impact.
+                                        {% elif recommendations['Root Number'] == 11 %}
+                                            As a Root Number 11, you are intuitive, inspirational, and spiritually aware. You have a natural talent for higher consciousness and spiritual insight.
+                                        {% elif recommendations['Root Number'] == 22 %}
+                                            As a Root Number 22, you are a master builder with great vision. You have a natural talent for turning dreams into reality on a large scale.
+                                        {% elif recommendations['Root Number'] == 33 %}
+                                            As a Root Number 33, you are a master teacher with deep compassion. You have a natural talent for healing and uplifting others through wisdom.
+                                        {% endif %}
+                                    </p>
+                                </div>
+                                <div class="profile-card">
+                                    <h4>🔮 Your Destiny Number</h4>
+                                    <p><strong>Destiny Number:</strong> {{ recommendations['Destiny Number'] }}</p>
+                                    <p class="destiny-description">
+                                        {% if recommendations['Destiny Number'] == 1 %}
+                                            Your Destiny Number 1 indicates a path of leadership and independence. You are destined to be a pioneer, innovator, and trailblazer in your chosen field.
+                                        {% elif recommendations['Destiny Number'] == 2 %}
+                                            Your Destiny Number 2 reveals a path of partnership and diplomacy. You are destined to excel in cooperative ventures and bring harmony to challenging situations.
+                                        {% elif recommendations['Destiny Number'] == 3 %}
+                                            Your Destiny Number 3 shows a path of creative expression and communication. You are destined to inspire others through your artistic talents and joyful nature.
+                                        {% elif recommendations['Destiny Number'] == 4 %}
+                                            Your Destiny Number 4 indicates a path of building and organization. You are destined to create stable foundations and bring order to complex situations.
+                                        {% elif recommendations['Destiny Number'] == 5 %}
+                                            Your Destiny Number 5 reveals a path of freedom and adventure. You are destined to experience life's variety and inspire others to embrace change.
+                                        {% elif recommendations['Destiny Number'] == 6 %}
+                                            Your Destiny Number 6 shows a path of responsibility and nurturing. You are destined to create harmony in relationships and care for others.
+                                        {% elif recommendations['Destiny Number'] == 7 %}
+                                            Your Destiny Number 7 indicates a path of spiritual growth and wisdom. You are destined to seek deeper truths and share your insights with others.
+                                        {% elif recommendations['Destiny Number'] == 8 %}
+                                            Your Destiny Number 8 reveals a path of material mastery and achievement. You are destined to manifest abundance and lead others to success.
+                                        {% elif recommendations['Destiny Number'] == 9 %}
+                                            Your Destiny Number 9 shows a path of humanitarian service and wisdom. You are destined to make a positive impact on the world through your compassion.
+                                        {% elif recommendations['Destiny Number'] == 11 %}
+                                            Your Destiny Number 11 indicates a path of spiritual enlightenment and inspiration. You are destined to be a lightworker and guide others to higher consciousness.
+                                        {% elif recommendations['Destiny Number'] == 22 %}
+                                            Your Destiny Number 22 reveals a path of master building and manifestation. You are destined to turn grand visions into reality and create lasting change.
+                                        {% elif recommendations['Destiny Number'] == 33 %}
+                                            Your Destiny Number 33 shows a path of master teaching and healing. You are destined to uplift humanity through your wisdom and compassion.
+                                        {% endif %}
+                                    </p>
+                                </div>
+                                <div class="profile-card">
+                                    <h4>💫 Your Intention</h4>
+                                    <p><strong>Primary Intention:</strong> {{ recommendations['Intention'] }}</p>
+                                    <p class="intention-description">Your focus on {{ recommendations['Intention'] }} indicates a deep desire for growth in this area. The crystals we've chosen will amplify your intentions and help manifest your desires.</p>
+                                </div>
+                                <div class="profile-card">
+                                    <h4>🔮 Your Personality Insights</h4>
+                                    <p><strong>Personality:</strong> {{ recommendations['Personality'] }}</p>
+                                    <p><strong>Recommended Crystals:</strong> {{ recommendations['Personality Crystals']|join(', ') }}</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="crystals-section">
+                            {% set crystal_groups = [
+                                ('Intention', recommendations['Intention'], recommendations['Intention Crystals']),
+                                ('Personality', 'Your Personality', recommendations['Personality Crystals']),
+                                ('Zodiac Energy', 'Your Zodiac Energy', recommendations['Zodiac Crystals'])
+                            ] %}
+                            
+                            {% for group_name, group_title, crystals in crystal_groups %}
+                                <div class="crystal-group" data-group="{{ group_name }}">
+                                    <h3>Recommended Crystals for {{ group_title }}</h3>
+                                    <ul class="crystal-list">
+                                        {% for crystal in crystals %}
+                                            <li class="crystal-item">
+                                                <div class="crystal-header" onclick="toggleCrystalDetails(this)">
+                                                    <span class="crystal-name">{{ crystal }}</span>
+                                                    <span class="toggle-icon">+</span>
+                                                </div>
+                                                <div class="crystal-details">
+                                                    <div class="crystal-info">
+                                                        <h4>About {{ crystal }}</h4>
+                                                        <p class="crystal-description">{{ crystal_details[crystal]['description'] }}</p>
+                                                        
+                                                        <div class="crystal-properties">
+                                                            <div class="property">
+                                                                <span class="property-label">Element:</span>
+                                                                <span class="property-value">
+                                                                    {% if crystal_details[crystal]['element'] is string %}
+                                                                        {{ crystal_details[crystal]['element'] }}
+                                                                    {% else %}
+                                                                        {{ crystal_details[crystal]['element']|join(' & ') }}
+                                                                    {% endif %}
+                                                                </span>
+                                                            </div>
+                                                            <div class="property">
+                                                                <span class="property-label">Found in:</span>
+                                                                <span class="property-value">{{ crystal_details[crystal]['origin']|join(', ') }}</span>
+                                                            </div>
+                                                            <div class="property">
+                                                                <span class="property-label">Chakra:</span>
+                                                                <span class="property-value">{{ crystal_details[crystal]['chakra']|join(' & ') }}</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="crystal-benefits">
+                                                            <h5>Healing Properties</h5>
+                                                            <ul>
+                                                                {% for property in crystal_details[crystal]['healing_properties'] %}
+                                                                    <li>{{ property }}</li>
+                                                                {% endfor %}
+                                                            </ul>
+                                                        </div>
+
+                                                        <div class="crystal-usage">
+                                                            <h5>How to Use</h5>
+                                                            <p>{{ crystal_details[crystal]['usage'] }}</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endfor %}
+                        </div>
+
+                        <div class="healing-tips">
+                            <h3>Healing Tips for {{ recommendations['Intention'] }}</h3>
+                            {% if recommendations['Intention'] == 'Health' %}
+                                <p>To enhance your health and well-being:</p>
+                                <ul>
+                                    <li>Place your crystals near your bed while sleeping</li>
+                                    <li>Hold them during meditation or Reiki sessions</li>
+                                    <li>Carry them with you throughout the day</li>
+                                    <li>Use them during energy healing practices</li>
+                                </ul>
+                            {% elif recommendations['Intention'] == 'Wealth' %}
+                                <p>To attract wealth and abundance:</p>
+                                <ul>
+                                    <li>Place crystals in your workspace or office</li>
+                                    <li>Carry them in your wallet or purse</li>
+                                    <li>Meditate with them while focusing on abundance</li>
+                                    <li>Place them near your financial documents</li>
+                                </ul>
+                            {% elif recommendations['Intention'] == 'Love' %}
+                                <p>To enhance love and relationships:</p>
+                                <ul>
+                                    <li>Place crystals near your heart chakra during meditation</li>
+                                    <li>Keep them in your bedroom</li>
+                                    <li>Wear them as jewelry close to your heart</li>
+                                    <li>Use them during relationship-focused Reiki sessions</li>
+                                </ul>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endif %}
+        </main>
+
+        <footer>
+            <p>© 2024 The Aura Flex | Created with healing intentions</p>
+        </footer>
+    </div>
+
+    <script>
+    function toggleCrystalDetails(element) {
+        const details = element.nextElementSibling;
+        const icon = element.querySelector('.toggle-icon');
+        
+        if (details.style.maxHeight) {
+            details.style.maxHeight = null;
+            icon.textContent = '+';
+            element.classList.remove('active');
+        } else {
+            details.style.maxHeight = details.scrollHeight + "px";
+            icon.textContent = '−';
+            element.classList.add('active');
+        }
+    }
+
+    // Add smooth scrolling for better UX
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+
+    // Add form validation
+    const form = document.querySelector('.crystal-form');
+    form.addEventListener('submit', function(e) {
+        const dob = document.getElementById('dob').value;
+        if (!dob) {
+            e.preventDefault();
+            alert('Please enter your date of birth');
+        }
+    });
+    </script>
+</body>
+</html> 
