@@ -5,7 +5,9 @@ from utils.helpers import calculate_root_number, get_zodiac_sign, calculate_dest
 from datetime import datetime
 from werkzeug.middleware.proxy_fix import ProxyFix
 
-app = Flask(__name__)
+app = Flask(__name__, 
+    static_url_path='/static',
+    static_folder='static')
 app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
 def load_crystal_data():
