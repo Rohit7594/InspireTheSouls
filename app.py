@@ -12,6 +12,10 @@ app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
 def load_crystal_data():
     data = {}
+    # Get the absolute path to the data directory
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(base_dir, 'data')
+    
     data_files = [
         'zodiac_crystals.json',
         'numerology_crystals.json',
@@ -20,16 +24,26 @@ def load_crystal_data():
     ]
     
     for file in data_files:
-        file_path = os.path.join('data', file)
-        if os.path.exists(file_path):
-            with open(file_path, 'r') as f:
-                data[file.replace('.json', '')] = json.load(f)
+        file_path = os.path.join(data_dir, file)
+        try:
+            if os.path.exists(file_path):
+                with open(file_path, 'r') as f:
+                    data[file.replace('.json', '')] = json.load(f)
+            else:
+                app.logger.error(f"Data file not found: {file_path}")
+        except Exception as e:
+            app.logger.error(f"Error loading {file}: {str(e)}")
     
     # Load personality mapping
-    personality_file = os.path.join('data', 'personality_mapping.json')
-    if os.path.exists(personality_file):
-        with open(personality_file, 'r') as f:
-            data['personality_mapping'] = json.load(f)
+    personality_file = os.path.join(data_dir, 'personality_mapping.json')
+    try:
+        if os.path.exists(personality_file):
+            with open(personality_file, 'r') as f:
+                data['personality_mapping'] = json.load(f)
+        else:
+            app.logger.error(f"Personality mapping file not found: {personality_file}")
+    except Exception as e:
+        app.logger.error(f"Error loading personality mapping: {str(e)}")
     
     return data
 
@@ -111,6 +125,15 @@ def index():
             return jsonify({'Error': 'An error occurred while processing your request'}), 500
 
     return render_template('index.html')
+
+@app.route('/test-data')
+def test_data():
+    data = load_crystal_data()
+    return jsonify({
+        'files_loaded': list(data.keys()),
+        'personality_mapping_exists': 'personality_mapping' in data,
+        'data_dir': os.path.dirname(os.path.abspath(__file__))
+    })
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
