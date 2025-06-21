@@ -1,4 +1,4 @@
-# The Aura Flex - Crystal Recommender
+# InspireTheSouls - Crystal Recommender
 
 A web application that provides personalized crystal recommendations based on birth energy and intentions.
 
