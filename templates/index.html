@@ -10,9 +10,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="top-bar">Welcome To InspireTheSouls</div>
     <div class="container">
         <div class="brand-logo">
-            <h2><a href="https://www.inspirethesouls.com/" target="_blank" rel="noopener noreferrer">InspireTheSouls</a></h2>
+            <a href="https://www.inspirethesouls.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+                <div class="brand-owl">
+                    <img src="{{ url_for('static', filename='owl.gif') }}" alt="InspireTheSouls Owl Logo" class="owl-logo">
+                </div>
+            </a>
         </div>
         <header>
             <h1>Crystal Recommender</h1>
