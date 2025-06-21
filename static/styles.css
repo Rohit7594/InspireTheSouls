@@ -82,6 +82,12 @@ header {
     white-space: nowrap;
 }
 
+.brand-logo h2 a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
 h1 {
     color: var(--primary-color);
     font-size: clamp(2rem, 5vw, 3.5rem);
@@ -416,6 +422,12 @@ footer {
     padding: 2rem;
     color: var(--text-light);
     font-size: 0.9rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
 }
 
 @media (max-width: 768px) {
