@@ -21,7 +21,7 @@ A web application that provides personalized crystal recommendations based on bi
 1. Clone the repository:
 ```bash
 git clone https://github.com/Rohit7594/InspireTheSouls
-cd crystal_recommender
+cd InspireTheSouls
 ```
 
 2. Create and activate a virtual environment:
