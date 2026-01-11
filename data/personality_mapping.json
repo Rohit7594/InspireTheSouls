@@ -1,482 +1,1010 @@
 {
     "1,1": {
         "personality": "A double dose of leadership! These individuals are ambitious, confident, and highly independent. They may excel in innovation but must avoid arrogance or isolation.",
-        "crystals": ["Garnet", "Clear Quartz"]
+        "crystals": [
+            "Garnet",
+            "Clear Quartz"
+        ]
     },
     "1,2": {
         "personality": "Balances assertiveness with diplomacy. They are natural leaders who value harmony and collaboration, making them compassionate yet driven.",
-        "crystals": ["Moonstone", "Carnelian"]
+        "crystals": [
+            "Moonstone",
+            "Carnelian"
+        ]
     },
     "1,3": {
         "personality": "A visionary with a creative flair! These individuals combine leadership skills with charisma, excelling in artistic and entrepreneurial ventures.",
-        "crystals": ["Citrine", "Sunstone"]
+        "crystals": [
+            "Citrine",
+            "Sunstone"
+        ]
     },
     "1,4": {
         "personality": "Practical visionaries who combine ambition with discipline. They excel in building strong foundations for their innovative ideas.",
-        "crystals": ["Smoky Quartz", "Pyrite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Pyrite"
+        ]
     },
     "1,5": {
         "personality": "Adventurous leaders who thrive on change. They are bold, adaptable, and eager to explore new possibilities but must stay focused to achieve their goals.",
-        "crystals": ["Turquoise", "Tiger's Eye"]
+        "crystals": [
+            "Turquoise",
+            "Tiger's Eye"
+        ]
     },
     "1,6": {
         "personality": "A leader with a nurturing side. They are driven yet empathetic, often seeking to use their success to support and care for others.",
-        "crystals": ["Rose Quartz", "Citrine"]
+        "crystals": [
+            "Rose Quartz",
+            "Citrine"
+        ]
     },
     "1,7": {
         "personality": "An introspective leader. These individuals blend ambition with spirituality, often seeking deeper meaning in their pursuits.",
-        "crystals": ["Labradorite", "Amethyst"]
+        "crystals": [
+            "Labradorite",
+            "Amethyst"
+        ]
     },
     "1,8": {
         "personality": "The powerhouse leader. Highly ambitious and authoritative, they are drawn to careers in business, finance, or management.",
-        "crystals": ["Pyrite", "Garnet"]
+        "crystals": [
+            "Pyrite",
+            "Garnet"
+        ]
     },
     "1,9": {
         "personality": "The altruistic leader. These individuals aim to use their leadership skills for the greater good, focusing on humanitarian efforts.",
-        "crystals": ["Clear Quartz", "Rhodonite"]
+        "crystals": [
+            "Clear Quartz",
+            "Rhodonite"
+        ]
     },
     "1,11": {
         "personality": "A visionary leader. They possess strong intuition and creativity, often inspiring others with their innovative ideas and spiritual insights.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "2,1": {
         "personality": "A diplomatic leader. These individuals balance harmony and assertiveness, excelling in leadership roles that require tact and collaboration.",
-        "crystals": ["Moonstone", "Garnet"]
+        "crystals": [
+            "Moonstone",
+            "Garnet"
+        ]
     },
     "2,2": {
         "personality": "The ultimate peacemaker. These individuals are deeply empathetic, intuitive, and dedicated to creating harmony but must avoid being overly self-sacrificing.",
-        "crystals": ["Selenite", "Rose Quartz"]
+        "crystals": [
+            "Selenite",
+            "Rose Quartz"
+        ]
     },
     "2,3": {
         "personality": "A creative nurturer. Combining empathy with creativity, they shine in artistic and social environments, often inspiring others with their vision.",
-        "crystals": ["Citrine", "Amazonite"]
+        "crystals": [
+            "Citrine",
+            "Amazonite"
+        ]
     },
     "2,4": {
         "personality": "A steady diplomat. They are reliable and grounded, using their intuitive nature to build strong, harmonious foundations in both relationships and projects.",
-        "crystals": ["Smoky Quartz", "Fluorite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Fluorite"
+        ]
     },
     "2,5": {
         "personality": "A free-spirited mediator. These individuals combine a love for harmony with adaptability, thriving in dynamic, fast-paced environments.",
-        "crystals": ["Turquoise", "Moonstone"]
+        "crystals": [
+            "Turquoise",
+            "Moonstone"
+        ]
     },
     "2,6": {
         "personality": "A compassionate caregiver. They are natural nurturers who excel in creating harmony and supporting others, often in family or community-oriented roles.",
-        "crystals": ["Rose Quartz", "Green Aventurine"]
+        "crystals": [
+            "Rose Quartz",
+            "Green Aventurine"
+        ]
     },
     "2,7": {
         "personality": "A spiritual peacemaker. These individuals combine intuition with introspection, often pursuing careers or hobbies that connect them to deeper spiritual truths.",
-        "crystals": ["Amethyst", "Labradorite"]
+        "crystals": [
+            "Amethyst",
+            "Labradorite"
+        ]
     },
     "2,8": {
         "personality": "The balanced achiever. They harmoniously blend emotional intelligence with ambition, excelling in leadership roles that require fairness and empathy.",
-        "crystals": ["Pyrite", "Amazonite"]
+        "crystals": [
+            "Pyrite",
+            "Amazonite"
+        ]
     },
     "2,9": {
         "personality": "The humanitarian peacemaker. These individuals dedicate their lives to creating harmony on a global scale, driven by compassion and a sense of purpose.",
-        "crystals": ["Clear Quartz", "Rhodonite"]
+        "crystals": [
+            "Clear Quartz",
+            "Rhodonite"
+        ]
     },
     "2,11": {
         "personality": "The intuitive visionary. Combining heightened sensitivity and spiritual insight, they are natural healers and guides, often working in creative or esoteric fields.",
-        "crystals": ["Selenite", "Moonstone"]
+        "crystals": [
+            "Selenite",
+            "Moonstone"
+        ]
     },
     "3,1": {
         "personality": "A creative leader. These individuals combine artistic flair with leadership skills, often inspiring others with their innovative ideas.",
-        "crystals": ["Citrine", "Sunstone"]
+        "crystals": [
+            "Citrine",
+            "Sunstone"
+        ]
     },
     "3,2": {
         "personality": "A diplomatic artist. They balance creativity with harmony, excelling in roles that require both artistic expression and collaboration.",
-        "crystals": ["Moonstone", "Amazonite"]
+        "crystals": [
+            "Moonstone",
+            "Amazonite"
+        ]
     },
     "3,3": {
         "personality": "A triple dose of creativity! These individuals are highly expressive, charismatic, and excel in artistic and communicative fields.",
-        "crystals": ["Citrine", "Sunstone"]
+        "crystals": [
+            "Citrine",
+            "Sunstone"
+        ]
     },
     "3,4": {
         "personality": "A structured artist. They combine creativity with discipline, often excelling in fields that require both artistic expression and organization.",
-        "crystals": ["Smoky Quartz", "Fluorite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Fluorite"
+        ]
     },
     "3,5": {
         "personality": "An adventurous creator. They thrive on change and creativity, often exploring new artistic and communicative possibilities.",
-        "crystals": ["Turquoise", "Tiger's Eye"]
+        "crystals": [
+            "Turquoise",
+            "Tiger's Eye"
+        ]
     },
     "3,6": {
         "personality": "A nurturing artist. They combine creativity with empathy, often using their artistic talents to support and inspire others.",
-        "crystals": ["Rose Quartz", "Green Aventurine"]
+        "crystals": [
+            "Rose Quartz",
+            "Green Aventurine"
+        ]
     },
     "3,7": {
         "personality": "A spiritual artist. They blend creativity with introspection, often seeking deeper meaning in their artistic pursuits.",
-        "crystals": ["Amethyst", "Labradorite"]
+        "crystals": [
+            "Amethyst",
+            "Labradorite"
+        ]
     },
     "3,8": {
         "personality": "A powerful creator. They combine creativity with ambition, often excelling in fields that require both artistic expression and leadership.",
-        "crystals": ["Pyrite", "Garnet"]
+        "crystals": [
+            "Pyrite",
+            "Garnet"
+        ]
     },
     "3,9": {
         "personality": "A humanitarian artist. They use their creativity for the greater good, often focusing on artistic projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Rhodonite"]
+        "crystals": [
+            "Clear Quartz",
+            "Rhodonite"
+        ]
     },
     "3,11": {
         "personality": "A visionary artist. They possess strong intuition and creativity, often inspiring others with their innovative ideas and spiritual insights.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "4,1": {
         "personality": "A structured leader. These individuals combine discipline with leadership skills, often excelling in roles that require organization and innovation.",
-        "crystals": ["Smoky Quartz", "Pyrite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Pyrite"
+        ]
     },
     "4,2": {
         "personality": "A diplomatic organizer. They balance structure with harmony, excelling in roles that require both organization and collaboration.",
-        "crystals": ["Moonstone", "Fluorite"]
+        "crystals": [
+            "Moonstone",
+            "Fluorite"
+        ]
     },
     "4,3": {
         "personality": "A creative organizer. They combine structure with creativity, often excelling in fields that require both organization and artistic expression.",
-        "crystals": ["Citrine", "Smoky Quartz"]
+        "crystals": [
+            "Citrine",
+            "Smoky Quartz"
+        ]
     },
     "4,4": {
         "personality": "A double dose of structure! These individuals are highly organized, disciplined, and excel in roles that require precision and reliability.",
-        "crystals": ["Smoky Quartz", "Fluorite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Fluorite"
+        ]
     },
     "4,5": {
         "personality": "An adventurous organizer. They thrive on change and structure, often exploring new organizational and communicative possibilities.",
-        "crystals": ["Turquoise", "Tiger's Eye"]
+        "crystals": [
+            "Turquoise",
+            "Tiger's Eye"
+        ]
     },
     "4,6": {
         "personality": "A nurturing organizer. They combine structure with empathy, often using their organizational skills to support and inspire others.",
-        "crystals": ["Rose Quartz", "Green Aventurine"]
+        "crystals": [
+            "Rose Quartz",
+            "Green Aventurine"
+        ]
     },
     "4,7": {
         "personality": "A spiritual organizer. They blend structure with introspection, often seeking deeper meaning in their organizational pursuits.",
-        "crystals": ["Amethyst", "Labradorite"]
+        "crystals": [
+            "Amethyst",
+            "Labradorite"
+        ]
     },
     "4,8": {
         "personality": "A powerful organizer. They combine structure with ambition, often excelling in fields that require both organization and leadership.",
-        "crystals": ["Pyrite", "Garnet"]
+        "crystals": [
+            "Pyrite",
+            "Garnet"
+        ]
     },
     "4,9": {
         "personality": "A humanitarian organizer. They use their organizational skills for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Rhodonite"]
+        "crystals": [
+            "Clear Quartz",
+            "Rhodonite"
+        ]
     },
     "4,11": {
         "personality": "A visionary organizer. They possess strong intuition and structure, often inspiring others with their innovative ideas and spiritual insights.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "5,1": {
         "personality": "An adventurous leader. These individuals combine adaptability with leadership skills, often excelling in roles that require innovation and change.",
-        "crystals": ["Turquoise", "Tiger's Eye"]
+        "crystals": [
+            "Turquoise",
+            "Tiger's Eye"
+        ]
     },
     "5,2": {
         "personality": "A diplomatic adventurer. They balance adaptability with harmony, excelling in roles that require both change and collaboration.",
-        "crystals": ["Moonstone", "Turquoise"]
+        "crystals": [
+            "Moonstone",
+            "Turquoise"
+        ]
     },
     "5,3": {
         "personality": "A creative adventurer. They combine adaptability with creativity, often excelling in fields that require both change and artistic expression.",
-        "crystals": ["Citrine", "Turquoise"]
+        "crystals": [
+            "Citrine",
+            "Turquoise"
+        ]
     },
     "5,4": {
         "personality": "A structured adventurer. They combine adaptability with discipline, often excelling in roles that require both change and organization.",
-        "crystals": ["Smoky Quartz", "Turquoise"]
+        "crystals": [
+            "Smoky Quartz",
+            "Turquoise"
+        ]
     },
     "5,5": {
         "personality": "A double dose of adventure! These individuals are highly adaptable, dynamic, and excel in roles that require flexibility and innovation.",
-        "crystals": ["Turquoise", "Tiger's Eye"]
+        "crystals": [
+            "Turquoise",
+            "Tiger's Eye"
+        ]
     },
     "5,6": {
         "personality": "A nurturing adventurer. They combine adaptability with empathy, often using their dynamic skills to support and inspire others.",
-        "crystals": ["Rose Quartz", "Turquoise"]
+        "crystals": [
+            "Rose Quartz",
+            "Turquoise"
+        ]
     },
     "5,7": {
         "personality": "A spiritual adventurer. They blend adaptability with introspection, often seeking deeper meaning in their dynamic pursuits.",
-        "crystals": ["Amethyst", "Turquoise"]
+        "crystals": [
+            "Amethyst",
+            "Turquoise"
+        ]
     },
     "5,8": {
         "personality": "A powerful adventurer. They combine adaptability with ambition, often excelling in fields that require both change and leadership.",
-        "crystals": ["Pyrite", "Turquoise"]
+        "crystals": [
+            "Pyrite",
+            "Turquoise"
+        ]
     },
     "5,9": {
         "personality": "A humanitarian adventurer. They use their adaptability for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Turquoise"]
+        "crystals": [
+            "Clear Quartz",
+            "Turquoise"
+        ]
     },
     "5,11": {
         "personality": "A visionary adventurer. They possess strong intuition and adaptability, often inspiring others with their innovative ideas and spiritual insights.",
-        "crystals": ["Selenite", "Turquoise"]
+        "crystals": [
+            "Selenite",
+            "Turquoise"
+        ]
     },
     "6,1": {
         "personality": "A nurturing leader. These individuals combine empathy with leadership skills, often excelling in roles that require compassion and innovation.",
-        "crystals": ["Rose Quartz", "Garnet"]
+        "crystals": [
+            "Rose Quartz",
+            "Garnet"
+        ]
     },
     "6,2": {
         "personality": "A diplomatic nurturer. They balance empathy with harmony, excelling in roles that require both compassion and collaboration.",
-        "crystals": ["Moonstone", "Rose Quartz"]
+        "crystals": [
+            "Moonstone",
+            "Rose Quartz"
+        ]
     },
     "6,3": {
         "personality": "A creative nurturer. They combine empathy with creativity, often excelling in fields that require both compassion and artistic expression.",
-        "crystals": ["Citrine", "Rose Quartz"]
+        "crystals": [
+            "Citrine",
+            "Rose Quartz"
+        ]
     },
     "6,4": {
         "personality": "A structured nurturer. They combine empathy with discipline, often excelling in roles that require both compassion and organization.",
-        "crystals": ["Smoky Quartz", "Rose Quartz"]
+        "crystals": [
+            "Smoky Quartz",
+            "Rose Quartz"
+        ]
     },
     "6,5": {
         "personality": "An adventurous nurturer. They combine empathy with adaptability, often excelling in roles that require both compassion and change.",
-        "crystals": ["Turquoise", "Rose Quartz"]
+        "crystals": [
+            "Turquoise",
+            "Rose Quartz"
+        ]
     },
     "6,6": {
         "personality": "A double dose of nurturing! These individuals are highly empathetic, caring, and excel in roles that require compassion and support.",
-        "crystals": ["Rose Quartz", "Green Aventurine"]
+        "crystals": [
+            "Rose Quartz",
+            "Green Aventurine"
+        ]
     },
     "6,7": {
         "personality": "A spiritual nurturer. They blend empathy with introspection, often seeking deeper meaning in their compassionate pursuits.",
-        "crystals": ["Amethyst", "Rose Quartz"]
+        "crystals": [
+            "Amethyst",
+            "Rose Quartz"
+        ]
     },
     "6,8": {
         "personality": "A powerful nurturer. They combine empathy with ambition, often excelling in fields that require both compassion and leadership.",
-        "crystals": ["Pyrite", "Rose Quartz"]
+        "crystals": [
+            "Pyrite",
+            "Rose Quartz"
+        ]
     },
     "6,9": {
         "personality": "A humanitarian nurturer. They use their empathy for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Rose Quartz"]
+        "crystals": [
+            "Clear Quartz",
+            "Rose Quartz"
+        ]
     },
     "6,11": {
         "personality": "A visionary nurturer. They possess strong intuition and empathy, often inspiring others with their compassionate ideas and spiritual insights.",
-        "crystals": ["Selenite", "Rose Quartz"]
+        "crystals": [
+            "Selenite",
+            "Rose Quartz"
+        ]
     },
     "7,1": {
         "personality": "A spiritual leader. These individuals combine introspection with leadership skills, often excelling in roles that require deep understanding and innovation.",
-        "crystals": ["Amethyst", "Garnet"]
+        "crystals": [
+            "Amethyst",
+            "Garnet"
+        ]
     },
     "7,2": {
         "personality": "A diplomatic spiritualist. They balance introspection with harmony, excelling in roles that require both deep understanding and collaboration.",
-        "crystals": ["Moonstone", "Amethyst"]
+        "crystals": [
+            "Moonstone",
+            "Amethyst"
+        ]
     },
     "7,3": {
         "personality": "A creative spiritualist. They combine introspection with creativity, often excelling in fields that require both deep understanding and artistic expression.",
-        "crystals": ["Citrine", "Amethyst"]
+        "crystals": [
+            "Citrine",
+            "Amethyst"
+        ]
     },
     "7,4": {
         "personality": "A structured spiritualist. They combine introspection with discipline, often excelling in roles that require both deep understanding and organization.",
-        "crystals": ["Smoky Quartz", "Amethyst"]
+        "crystals": [
+            "Smoky Quartz",
+            "Amethyst"
+        ]
     },
     "7,5": {
         "personality": "An adventurous spiritualist. They combine introspection with adaptability, often excelling in roles that require both deep understanding and change.",
-        "crystals": ["Turquoise", "Amethyst"]
+        "crystals": [
+            "Turquoise",
+            "Amethyst"
+        ]
     },
     "7,6": {
         "personality": "A nurturing spiritualist. They combine introspection with empathy, often excelling in roles that require both deep understanding and compassion.",
-        "crystals": ["Rose Quartz", "Amethyst"]
+        "crystals": [
+            "Rose Quartz",
+            "Amethyst"
+        ]
     },
     "7,7": {
         "personality": "A double dose of spirituality! These individuals are highly introspective, insightful, and excel in roles that require deep understanding and wisdom.",
-        "crystals": ["Amethyst", "Labradorite"]
+        "crystals": [
+            "Amethyst",
+            "Labradorite"
+        ]
     },
     "7,8": {
         "personality": "A powerful spiritualist. They combine introspection with ambition, often excelling in fields that require both deep understanding and leadership.",
-        "crystals": ["Pyrite", "Amethyst"]
+        "crystals": [
+            "Pyrite",
+            "Amethyst"
+        ]
     },
     "7,9": {
         "personality": "A humanitarian spiritualist. They use their introspection for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Amethyst"]
+        "crystals": [
+            "Clear Quartz",
+            "Amethyst"
+        ]
     },
     "7,11": {
         "personality": "A visionary spiritualist. They possess strong intuition and introspection, often inspiring others with their deep insights and spiritual wisdom.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "8,1": {
         "personality": "A powerful leader. These individuals combine ambition with leadership skills, often excelling in roles that require innovation and authority.",
-        "crystals": ["Pyrite", "Garnet"]
+        "crystals": [
+            "Pyrite",
+            "Garnet"
+        ]
     },
     "8,2": {
         "personality": "A diplomatic powerhouse. They balance ambition with harmony, excelling in roles that require both authority and collaboration.",
-        "crystals": ["Moonstone", "Pyrite"]
+        "crystals": [
+            "Moonstone",
+            "Pyrite"
+        ]
     },
     "8,3": {
         "personality": "A creative powerhouse. They combine ambition with creativity, often excelling in fields that require both authority and artistic expression.",
-        "crystals": ["Citrine", "Pyrite"]
+        "crystals": [
+            "Citrine",
+            "Pyrite"
+        ]
     },
     "8,4": {
         "personality": "A structured powerhouse. They combine ambition with discipline, often excelling in roles that require both authority and organization.",
-        "crystals": ["Smoky Quartz", "Pyrite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Pyrite"
+        ]
     },
     "8,5": {
         "personality": "An adventurous powerhouse. They combine ambition with adaptability, often excelling in roles that require both authority and change.",
-        "crystals": ["Turquoise", "Pyrite"]
+        "crystals": [
+            "Turquoise",
+            "Pyrite"
+        ]
     },
     "8,6": {
         "personality": "A nurturing powerhouse. They combine ambition with empathy, often excelling in roles that require both authority and compassion.",
-        "crystals": ["Rose Quartz", "Pyrite"]
+        "crystals": [
+            "Rose Quartz",
+            "Pyrite"
+        ]
     },
     "8,7": {
         "personality": "A spiritual powerhouse. They blend ambition with introspection, often seeking deeper meaning in their authoritative pursuits.",
-        "crystals": ["Amethyst", "Pyrite"]
+        "crystals": [
+            "Amethyst",
+            "Pyrite"
+        ]
     },
     "8,8": {
         "personality": "A double dose of power! These individuals are highly ambitious, authoritative, and excel in roles that require leadership and innovation.",
-        "crystals": ["Pyrite", "Garnet"]
+        "crystals": [
+            "Pyrite",
+            "Garnet"
+        ]
     },
     "8,9": {
         "personality": "A humanitarian powerhouse. They use their ambition for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Pyrite"]
+        "crystals": [
+            "Clear Quartz",
+            "Pyrite"
+        ]
     },
     "8,11": {
         "personality": "A visionary powerhouse. They possess strong intuition and ambition, often inspiring others with their authoritative ideas and spiritual insights.",
-        "crystals": ["Selenite", "Pyrite"]
+        "crystals": [
+            "Selenite",
+            "Pyrite"
+        ]
     },
     "9,1": {
         "personality": "A humanitarian leader. These individuals combine altruism with leadership skills, often excelling in roles that require compassion and innovation.",
-        "crystals": ["Clear Quartz", "Garnet"]
+        "crystals": [
+            "Clear Quartz",
+            "Garnet"
+        ]
     },
     "9,2": {
         "personality": "A diplomatic humanitarian. They balance altruism with harmony, excelling in roles that require both compassion and collaboration.",
-        "crystals": ["Moonstone", "Clear Quartz"]
+        "crystals": [
+            "Moonstone",
+            "Clear Quartz"
+        ]
     },
     "9,3": {
         "personality": "A creative humanitarian. They combine altruism with creativity, often excelling in fields that require both compassion and artistic expression.",
-        "crystals": ["Citrine", "Clear Quartz"]
+        "crystals": [
+            "Citrine",
+            "Clear Quartz"
+        ]
     },
     "9,4": {
         "personality": "A structured humanitarian. They combine altruism with discipline, often excelling in roles that require both compassion and organization.",
-        "crystals": ["Smoky Quartz", "Clear Quartz"]
+        "crystals": [
+            "Smoky Quartz",
+            "Clear Quartz"
+        ]
     },
     "9,5": {
         "personality": "An adventurous humanitarian. They combine altruism with adaptability, often excelling in roles that require both compassion and change.",
-        "crystals": ["Turquoise", "Clear Quartz"]
+        "crystals": [
+            "Turquoise",
+            "Clear Quartz"
+        ]
     },
     "9,6": {
         "personality": "A nurturing humanitarian. They combine altruism with empathy, often excelling in roles that require both compassion and support.",
-        "crystals": ["Rose Quartz", "Clear Quartz"]
+        "crystals": [
+            "Rose Quartz",
+            "Clear Quartz"
+        ]
     },
     "9,7": {
         "personality": "A spiritual humanitarian. They blend altruism with introspection, often seeking deeper meaning in their compassionate pursuits.",
-        "crystals": ["Amethyst", "Clear Quartz"]
+        "crystals": [
+            "Amethyst",
+            "Clear Quartz"
+        ]
     },
     "9,8": {
         "personality": "A powerful humanitarian. They combine altruism with ambition, often excelling in fields that require both compassion and leadership.",
-        "crystals": ["Pyrite", "Clear Quartz"]
+        "crystals": [
+            "Pyrite",
+            "Clear Quartz"
+        ]
     },
     "9,9": {
         "personality": "A double dose of humanitarianism! These individuals are highly altruistic, compassionate, and excel in roles that require empathy and support.",
-        "crystals": ["Clear Quartz", "Rhodonite"]
+        "crystals": [
+            "Clear Quartz",
+            "Rhodonite"
+        ]
     },
     "9,11": {
         "personality": "A visionary humanitarian. They possess strong intuition and altruism, often inspiring others with their compassionate ideas and spiritual insights.",
-        "crystals": ["Selenite", "Clear Quartz"]
+        "crystals": [
+            "Selenite",
+            "Clear Quartz"
+        ]
     },
     "11,1": {
         "personality": "A visionary leader. These individuals combine intuition with leadership skills, often excelling in roles that require innovation and spiritual insight.",
-        "crystals": ["Selenite", "Garnet"]
+        "crystals": [
+            "Selenite",
+            "Garnet"
+        ]
     },
     "11,2": {
         "personality": "A diplomatic visionary. They balance intuition with harmony, excelling in roles that require both spiritual insight and collaboration.",
-        "crystals": ["Moonstone", "Selenite"]
+        "crystals": [
+            "Moonstone",
+            "Selenite"
+        ]
     },
     "11,3": {
         "personality": "A creative visionary. They combine intuition with creativity, often excelling in fields that require both spiritual insight and artistic expression.",
-        "crystals": ["Citrine", "Selenite"]
+        "crystals": [
+            "Citrine",
+            "Selenite"
+        ]
     },
     "11,4": {
         "personality": "A structured visionary. They combine intuition with discipline, often excelling in roles that require both spiritual insight and organization.",
-        "crystals": ["Smoky Quartz", "Selenite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Selenite"
+        ]
     },
     "11,5": {
         "personality": "An adventurous visionary. They combine intuition with adaptability, often excelling in roles that require both spiritual insight and change.",
-        "crystals": ["Turquoise", "Selenite"]
+        "crystals": [
+            "Turquoise",
+            "Selenite"
+        ]
     },
     "11,6": {
         "personality": "A nurturing visionary. They combine intuition with empathy, often excelling in roles that require both spiritual insight and compassion.",
-        "crystals": ["Rose Quartz", "Selenite"]
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
     },
     "11,7": {
         "personality": "A spiritual visionary. They blend intuition with introspection, often seeking deeper meaning in their spiritual pursuits.",
-        "crystals": ["Amethyst", "Selenite"]
+        "crystals": [
+            "Amethyst",
+            "Selenite"
+        ]
     },
     "11,8": {
         "personality": "A powerful visionary. They combine intuition with ambition, often excelling in fields that require both spiritual insight and leadership.",
-        "crystals": ["Pyrite", "Selenite"]
+        "crystals": [
+            "Pyrite",
+            "Selenite"
+        ]
     },
     "11,9": {
         "personality": "A humanitarian visionary. They use their intuition for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Selenite"]
+        "crystals": [
+            "Clear Quartz",
+            "Selenite"
+        ]
     },
     "11,11": {
         "personality": "A double dose of vision! These individuals are highly intuitive, insightful, and excel in roles that require spiritual wisdom and innovation.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "22,1": {
         "personality": "A master builder leader. These individuals combine vision with leadership skills, often excelling in roles that require innovation and strategic planning.",
-        "crystals": ["Selenite", "Garnet"]
+        "crystals": [
+            "Selenite",
+            "Garnet"
+        ]
     },
     "22,2": {
         "personality": "A diplomatic master builder. They balance vision with harmony, excelling in roles that require both strategic planning and collaboration.",
-        "crystals": ["Moonstone", "Selenite"]
+        "crystals": [
+            "Moonstone",
+            "Selenite"
+        ]
     },
     "22,3": {
         "personality": "A creative master builder. They combine vision with creativity, often excelling in fields that require both strategic planning and artistic expression.",
-        "crystals": ["Citrine", "Selenite"]
+        "crystals": [
+            "Citrine",
+            "Selenite"
+        ]
     },
     "22,4": {
         "personality": "A structured master builder. They combine vision with discipline, often excelling in roles that require both strategic planning and organization.",
-        "crystals": ["Smoky Quartz", "Selenite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Selenite"
+        ]
     },
     "22,5": {
         "personality": "An adventurous master builder. They combine vision with adaptability, often excelling in roles that require both strategic planning and change.",
-        "crystals": ["Turquoise", "Selenite"]
+        "crystals": [
+            "Turquoise",
+            "Selenite"
+        ]
     },
     "22,6": {
         "personality": "A nurturing master builder. They combine vision with empathy, often excelling in roles that require both strategic planning and compassion.",
-        "crystals": ["Rose Quartz", "Selenite"]
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
     },
     "22,7": {
         "personality": "A spiritual master builder. They blend vision with introspection, often seeking deeper meaning in their strategic pursuits.",
-        "crystals": ["Amethyst", "Selenite"]
+        "crystals": [
+            "Amethyst",
+            "Selenite"
+        ]
     },
     "22,8": {
         "personality": "A powerful master builder. They combine vision with ambition, often excelling in fields that require both strategic planning and leadership.",
-        "crystals": ["Pyrite", "Selenite"]
+        "crystals": [
+            "Pyrite",
+            "Selenite"
+        ]
     },
     "22,9": {
         "personality": "A humanitarian master builder. They use their vision for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Selenite"]
+        "crystals": [
+            "Clear Quartz",
+            "Selenite"
+        ]
     },
     "22,11": {
         "personality": "A visionary master builder. They possess strong intuition and vision, often inspiring others with their strategic ideas and spiritual insights.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
     },
     "33,1": {
         "personality": "A master teacher leader. These individuals combine wisdom with leadership skills, often excelling in roles that require innovation and spiritual guidance.",
-        "crystals": ["Selenite", "Garnet"]
+        "crystals": [
+            "Selenite",
+            "Garnet"
+        ]
     },
     "33,2": {
         "personality": "A diplomatic master teacher. They balance wisdom with harmony, excelling in roles that require both spiritual guidance and collaboration.",
-        "crystals": ["Moonstone", "Selenite"]
+        "crystals": [
+            "Moonstone",
+            "Selenite"
+        ]
     },
     "33,3": {
         "personality": "A creative master teacher. They combine wisdom with creativity, often excelling in fields that require both spiritual guidance and artistic expression.",
-        "crystals": ["Citrine", "Selenite"]
+        "crystals": [
+            "Citrine",
+            "Selenite"
+        ]
     },
     "33,4": {
         "personality": "A structured master teacher. They combine wisdom with discipline, often excelling in roles that require both spiritual guidance and organization.",
-        "crystals": ["Smoky Quartz", "Selenite"]
+        "crystals": [
+            "Smoky Quartz",
+            "Selenite"
+        ]
     },
     "33,5": {
         "personality": "An adventurous master teacher. They combine wisdom with adaptability, often excelling in roles that require both spiritual guidance and change.",
-        "crystals": ["Turquoise", "Selenite"]
+        "crystals": [
+            "Turquoise",
+            "Selenite"
+        ]
     },
     "33,6": {
         "personality": "A nurturing master teacher. They combine wisdom with empathy, often excelling in roles that require both spiritual guidance and compassion.",
-        "crystals": ["Rose Quartz", "Selenite"]
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
     },
     "33,7": {
         "personality": "A spiritual master teacher. They blend wisdom with introspection, often seeking deeper meaning in their spiritual pursuits.",
-        "crystals": ["Amethyst", "Selenite"]
+        "crystals": [
+            "Amethyst",
+            "Selenite"
+        ]
     },
     "33,8": {
         "personality": "A powerful master teacher. They combine wisdom with ambition, often excelling in fields that require both spiritual guidance and leadership.",
-        "crystals": ["Pyrite", "Selenite"]
+        "crystals": [
+            "Pyrite",
+            "Selenite"
+        ]
     },
     "33,9": {
         "personality": "A humanitarian master teacher. They use their wisdom for the greater good, often focusing on projects that promote harmony and compassion.",
-        "crystals": ["Clear Quartz", "Selenite"]
+        "crystals": [
+            "Clear Quartz",
+            "Selenite"
+        ]
     },
     "33,11": {
         "personality": "A visionary master teacher. They possess strong intuition and wisdom, often inspiring others with their spiritual ideas and insights.",
-        "crystals": ["Selenite", "Amethyst"]
+        "crystals": [
+            "Selenite",
+            "Amethyst"
+        ]
+    },
+    "1,22": {
+        "personality": "A master builder with pioneering spirit. These individuals combine natural leadership and independence with the extraordinary ability to manifest grand visions into tangible reality. They are born entrepreneurs and architects of change, capable of leading large-scale projects that leave lasting impacts on society. Their independent nature drives innovation, while their master builder destiny provides the discipline and practical skills to turn ambitious dreams into concrete achievements. They excel in fields requiring both vision and execution—technology startups, architecture, social enterprises, infrastructure development, or any arena where they can build something meaningful from the ground up. The challenge lies in balancing their need for autonomy with the collaborative nature of massive projects, and tempering natural impatience with the methodical, step-by-step approach needed for sustainable success.",
+        "crystals": [
+            "Citrine",
+            "Selenite"
+        ]
+    },
+    "2,22": {
+        "personality": "A diplomatic master builder who creates harmony through structure. These individuals blend exceptional sensitivity and cooperation with the power to build enduring institutions and systems. They are natural peacekeepers who understand that lasting harmony requires solid foundations and practical frameworks. Their intuitive understanding of people's needs, combined with master builder capabilities, makes them excellent in creating collaborative organizations, community spaces, or relationship-focused businesses. They excel at bringing diverse groups together toward shared goals, building bridges between conflicting parties through practical solutions. The key challenge is maintaining their own emotional boundaries while managing large-scale projects, and trusting their intuition even when making pragmatic decisions. They must learn that true partnership can coexist with grand ambitions.",
+        "crystals": [
+            "Moonstone",
+            "Selenite"
+        ]
+    },
+    "3,22": {
+        "personality": "A creative master builder who manifests art into reality. These individuals combine expressive creativity and joyful communication with the power to build large-scale creative ventures. They are visionary artists, entrepreneurs, or creative directors capable of transforming imaginative concepts into successful, tangible enterprises. Their charisma and communication skills attract collaborators and resources, while their master builder energy ensures creative visions become profitable realities. They excel in entertainment, media, design firms, creative agencies, or any field where imagination meets infrastructure. The challenge is maintaining artistic integrity while building commercial success, and ensuring the business side doesn't overshadow creative spontaneity. They must remember that structure enhances rather than limits creativity.",
+        "crystals": [
+            "Citrine",
+            "Selenite"
+        ]
+    },
+    "4,22": {
+        "personality": "A double dose of master building! These individuals possess exceptional organizational skills combined with visionary capacity for massive achievement. They are the ultimate practical visionaries, capable of taking ambitious ideas and methodically transforming them into enduring legacy projects. With 4's natural affinity for systems and structure amplified by 22's master builder energy, they excel as project managers, civil engineers, urban planners, or corporate strategists managing complex initiatives. They understand both the minute details and the grand vision, creating comprehensive plans that actually work. The challenge is avoiding perfectionism and rigidity—they must remember that some flexibility allows for innovation. They should balance their need for control with trust in collaborative processes and remember that sustainable success requires patience.",
+        "crystals": [
+            "Smoky Quartz",
+            "Selenite"
+        ]
+    },
+    "5,22": {
+        "personality": "An adventurous master builder who creates freedom through structure. These dynamic individuals combine love for change and exploration with the ability to build systems that enable greater freedom. They are revolutionaries who understand that true liberation requires practical infrastructure. They excel at building platforms, networks, or organizations that empower people's independence—think sharing economy enterprises, remote work infrastructures, or educational systems promoting autonomy. Their adaptability helps them navigate complex projects while their master builder energy ensures innovations become sustainable realities. The challenge is committing to long-term projects when their nature craves constant variety, and building stable foundations without feeling trapped. They must learn that proper structure paradoxically creates more freedom, not less.",
+        "crystals": [
+            "Turquoise",
+            "Selenite"
+        ]
+    },
+    "6,22": {
+        "personality": "A nurturing master builder dedicated to creating spaces of care. These compassionate individuals combine deep responsibility for others with the power to build institutions that serve and heal. They are natural creators of hospitals, schools, community centers, family businesses, or any enterprise focused on caring for people. Their nurturing instincts are amplified by master builder capabilities, allowing them to establish enduring support systems that impact generations. They excel at combining emotional intelligence with practical organization, creating environments where people genuinely thrive. The challenge is avoiding overextension by trying to care for everyone while managing large projects, and ensuring their own needs don't get sacrificed to service. They must build support structures for themselves too, not just others.",
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
+    },
+    "7,22": {
+        "personality": "A spiritual master builder who manifests wisdom into form. These introspective individuals combine deep spiritual understanding and analytical thinking with the power to create institutions of learning and enlightenment. They are visionary educators, spiritual center founders, research institution builders, or philosophers who translate abstract wisdom into practical teachings and enduring systems. Their gift lies in making the intangible tangible—building schools of thought, meditation centers, research labs, or knowledge systems that preserve and transmit wisdom. The challenge is balancing solitary spiritual practice with the collaborative demands of large-scale building, and trusting that their inner knowing can guide practical decisions. They must remember that sharing wisdom requires stepping into the material world.",
+        "crystals": [
+            "Amethyst",
+            "Selenite"
+        ]
+    },
+    "8,22": {
+        "personality": "A powerhouse master builder destined for monumental achievement. These individuals combine natural authority and material mastery with the ability to create empire-level enterprises. They are visionary CEOs, industry leaders, or institutional founders capable of building organizations that reshape entire sectors. With both numbers oriented toward material success and leadership, they possess unmatched potential for creating wealth and influence through practical achievement. They excel at recognizing opportunities and mobilizing massive resources to capitalize on them. The challenge is ensuring their ambition serves higher purposes beyond personal gain, and maintaining ethical standards when wielding significant power. They must build legacies that benefit humanity, not just accumulate personal empire. Balance worldly success with spiritual values.",
+        "crystals": [
+            "Pyrite",
+            "Selenite"
+        ]
+    },
+    "9,22": {
+        "personality": "A humanitarian master builder creating systems of compassion. These altruistic individuals combine universal love and completion energy with the power to build organizations that serve humanity's highest good. They are social entrepreneurs, nonprofit founders, or policy architects who create lasting institutions addressing global challenges. Their compassionate vision is backed by practical building skills, allowing them to transform idealistic dreams of a better world into functioning realities. They excel at creating sustainable solutions to humanitarian problems, building bridges between cultures, or establishing educational systems that promote global understanding. The challenge is maintaining hope and energy when confronting massive suffering or slow progress, and building practical structures without losing sight of idealistic vision. Remember: sustainable change requires both vision and infrastructure.",
+        "crystals": [
+            "Clear Quartz",
+            "Selenite"
+        ]
+    },
+    "11,22": {
+        "personality": "A visionary master builder combining spiritual insight with material manifestation. These illuminated individuals possess the intuitive, inspirational qualities of 11 merged with the practical building power of 22, creating perhaps the most potent combination for manifesting spiritual visions into earthly reality. They are conscious business leaders, sustainable technology innovators, or spiritual center architects who bridge heaven and earth. Their heightened intuition guides them toward projects that truly matter, while their master builder energy ensures these visions become tangible. They excel at creating enterprises that are both profitable and purposeful, building new paradigms rather than following existing models. The challenge is managing the intense energy of two master numbers—they may feel overwhelmed by the magnitude of their potential mission. Grounding practices are essential.",
+        "crystals": [
+            "Selenite",
+            "Labradorite"
+        ]
+    },
+    "22,22": {
+        "personality": "The ultimate master builder with unparalleled potential for achievement. This rare double 22 combination represents someone born to create lasting monuments, institutions, or innovations that impact humanity for generations. These individuals possess extraordinary vision combined with exceptional organizational skills and tireless dedication to bringing ambitious dreams into reality. They are destined for large-scale accomplishment—think architectural wonders, transformative technologies, revolutionary systems, or movements that reshape society. With master builder energy doubled, they have the stamina and strategic thinking to manage complexity that would overwhelm others. The challenge is managing the immense pressure and responsibility that comes with such potential, avoiding burnout, and ensuring their achievements serve the greater good. They must remember they're building for humanity, not ego. Rest is not weakness—it's wisdom.",
+        "crystals": [
+            "Selenite",
+            "Smoky Quartz"
+        ]
+    },
+    "33,22": {
+        "personality": "A master teacher building institutions of healing and wisdom. This powerful combination merges the compassionate teaching energy of 33 with the practical manifestation power of 22, creating someone destined to establish enduring systems of education, healing, or spiritual advancement. They are founders of healing centers, educational innovators, wisdom tradition architects, or compassionate leaders who build organizations that genuinely transform lives. Their unconditional love is grounded in practical action, ensuring their desire to help becomes sustainable reality. They excel at creating supportive structures where others can learn, heal, and grow. The challenge is maintaining self-care while building healing institutions—they must remember they cannot pour from an empty cup. Build support systems for yourself while supporting others. Your wellbeing enables your mission.",
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
+    },
+    "1,33": {
+        "personality": "A pioneering master teacher who leads through compassionate example. These individuals combine strong leadership and independence with a destiny to uplift humanity through unconditional love and spiritual teaching. They are natural mentors who teach leadership itself—inspiring others to discover their own power while remaining loving and supportive. Their independent streak is softened by profound compassion, creating approachable yet authoritative teachers. They excel as life coaches, spiritual guides, motivational leaders, or founders of empowerment programs. Their gift is showing others that strength and compassion are not opposites but complementary forces. The challenge is balancing their need for autonomy with the interconnected nature of teaching and healing, and ensuring their leadership serves others' growth rather than ego. They must learn that true leadership is service.",
+        "crystals": [
+            "Citrine",
+            "Rose Quartz"
+        ]
+    },
+    "2,33": {
+        "personality": "A gentle master teacher who heals through harmony and love. These deeply empathetic individuals combine natural diplomatic sensitivity with a sacred mission to teach unconditional love and compassion. They are the ultimate healers and peacekeepers, possessing profound understanding of emotional wounds and the wisdom to guide others toward forgiveness and wholeness. Their intuitive connection to others' pain, enhanced by master teacher energy, makes them exceptional therapists, counselors, energy healers, or relationship coaches. They excel at creating safe spaces where people can be vulnerable and transform. The challenge is maintaining healthy boundaries while absorbing others' emotions, and remembering to fill their own cup first. They must learn that taking care of themselves is not selfish—it's necessary for sustaining their healing work.",
+        "crystals": [
+            "Moonstone",
+            "Rose Quartz"
+        ]
+    },
+    "3,33": {
+        "personality": "A joyful master teacher who uplifts through creative expression and communication. These charismatic individuals blend natural creativity and self-expression with a mission to teach love and spread healing through art, words, and inspiration. They are artists with a message, communicators with a calling, or creative therapists who help others heal through expressive modalities. Their gift for making wisdom accessible through stories, art, music, or humor allows them to reach hearts that traditional teaching cannot touch. They excel in expressive arts therapy, inspirational speaking, spiritual entertainment, or any field where creativity serves healing. The challenge is ensuring their message remains grounded in genuine wisdom rather than surface-level positivity, and balancing creative spontaneity with the responsibility of teaching. Remember: authentic vulnerability is more healing than perfect performance.",
+        "crystals": [
+            "Citrine",
+            "Rose Quartz"
+        ]
+    },
+    "4,33": {
+        "personality": "A grounded master teacher who teaches love through practical service. These stable individuals combine methodical reliability with a mission to uplift humanity through consistent, tangible acts of compassion. They are the practical mystics who understand that spiritual teaching must translate into daily living. They excel at creating structured healing programs, establishing support systems, or teaching through demonstrable, step-by-step guidance. Their gift is making elevated spiritual concepts accessible through practical application, showing that enlightenment lives in ordinary moments. They excel as occupational therapists, practical life coaches, or builders of sustainable communities. The challenge is avoiding rigidity in spiritual matters and remembering that love cannot be fully systematized. Balance structure with spontaneous compassion, and trust that not everything needs organization.",
+        "crystals": [
+            "Green Aventurine",
+            "Rose Quartz"
+        ]
+    },
+    "5,33": {
+        "personality": "A transformative master teacher who liberates through unconditional love. These dynamic individuals combine adventurous freedom-seeking with a sacred calling to teach compassion and healing through diverse experiences. They are spiritual travelers, transformational coaches, or cross-cultural healers who gather wisdom from many traditions and share it with openness and joy. Their adaptability allows them to meet people where they are, teaching different lessons to different souls at different times. They excel at helping others through major life transitions, teaching that change itself can be loving and healing. The challenge is developing the consistency and commitment required for deep teaching work when their nature craves variety, and ensuring their search for new experiences doesn't prevent true depth. Sustainable healing requires both exploration and dedication.",
+        "crystals": [
+            "Turquoise",
+            "Rose Quartz"
+        ]
+    },
+    "6,33": {
+        "personality": "A nurturing master teacher embodying pure unconditional love. This powerful combination doubles down on compassionate service, creating someone whose entire existence revolves around caring, healing, and uplifting others. They are the archetypal healers—natural counselors, nurses, devoted teachers, or family pillars who instinctively know how to comfort and guide. With both numbers oriented toward nurturing, they possess limitless capacity for empathy and service. They excel in any healing profession, family therapy, hospice care, or community leadership. The challenge is severe: avoiding complete self-sacrifice and burnout. They must learn that martyrdom doesn't serve anyone—healthy self-care makes them better healers. Setting boundaries is not selfish; it's sustainable. Fill your own cup first, then you can truly nourish others endlessly.",
+        "crystals": [
+            "Rose Quartz",
+            "Green Aventurine"
+        ]
+    },
+    "7,33": {
+        "personality": "A mystical master teacher bridging spiritual wisdom and healing love. These introspective individuals combine deep spiritual understanding and analytical insight with a mission to guide others toward enlightenment through compassion. They are spiritual teachers, meditation masters, or wisdom keepers who've walked the path of inner knowing and now illuminate it for others. Their gift is translating profound spiritual truths into heart-opening experiences, teaching that wisdom and love are inseparable. They excel as spiritual counselors, retreat leaders, or contemplative teachers who help others connect with their higher selves. The challenge is balancing solitary spiritual practice with the interpersonal demands of healing work, and bringing lofty wisdom down to earth where people actually live. Remember: the highest teaching is presence itself.",
+        "crystals": [
+            "Amethyst",
+            "Rose Quartz"
+        ]
+    },
+    "8,33": {
+        "personality": "A powerful master teacher who serves humanity through influential leadership. These authoritative individuals combine natural capacity for material success and leadership with a sacred mission to use their influence for healing and uplifting the collective. They are conscious business leaders, philanthropists, or institutional heads who understand that true power lies in service. Their ability to manifest resources is directed toward creating healing, educational, or charitable enterprises that genuinely help people. They excel at building sustainable organizations that both succeed financially and serve humanity's highest good. The challenge is ensuring ego doesn't corrupt their service mission as their influence grows, and remembering that compassion, not just competence, should guide their decisions. Use your power to empower others, not control them.",
+        "crystals": [
+            "Pyrite",
+            "Rose Quartz"
+        ]
+    },
+    "9,33": {
+        "personality": "The ultimate humanitarian master teacher embodying global compassion. This combination amplifies altruistic and service-oriented energies to their highest expression, creating someone destined to be a light for all humanity. They are global healers, humanitarian leaders, or spiritual teachers whose love knows no boundaries of culture, religion, or geography. With both numbers oriented toward universal love and completion, they see the divine in all beings and teach others to do the same. They excel in international humanitarian work, interfaith ministry, global education, or peace-building initiatives. The challenge is managing the weight of feeling the world's suffering so intensely, and avoiding despair when progress seems slow. Remember: you cannot save everyone, but you can love everyone. Your compassion itself is healing.",
+        "crystals": [
+            "Clear Quartz",
+            "Rose Quartz"
+        ]
+    },
+    "11,33": {
+        "personality": "An illuminated master teacher channeling divine wisdom and unconditional love. This rare and sacred combination merges the intuitive, visionary energy of 11 with the compassionate teaching mission of 33, creating an individual with extraordinary spiritual gifts and healing presence. They are spiritual luminaries, enlightened teachers, or transformational healers who serve as channels for divine love and wisdom. Their heightened intuition guides them to exactly who needs healing and what teachings they need. They excel as spiritual counselors, energy healers, or guides who help others awaken to their own divinity. The challenge is managing the intensity of two master numbers—they may feel overwhelmed by their sensitivity to suffering and their soul's calling. Grounding, boundaries, and self-compassion are essential. You are human too.",
+        "crystals": [
+            "Selenite",
+            "Rose Quartz"
+        ]
+    },
+    "22,33": {
+        "personality": "A master builder dedicated to teaching and healing through sustainable systems. This powerful combination merges practical manifestation abilities with compassionate teaching, creating someone who builds lasting institutions of healing, education, and spiritual advancement. They are founders of healing centers, educational innovators, or architects of compassionate organizations that genuinely transform lives across generations. Their master builder skills ensure their healing mission becomes enduring reality, while their teacher energy ensures these structures truly serve. They excel at creating schools, hospitals, retreat centers, or support systems that outlive them. The challenge is managing the pressure of two master numbers and building sustainable structures without sacrificing the human touch. Remember: the most enduring buildings are held together by love, not just by bricks.",
+        "crystals": [
+            "Selenite",
+            "Rose Quartz"
+        ]
+    },
+    "33,33": {
+        "personality": "The rarest combination—a double master teacher embodying pure, unconditional divine love. This extraordinary individual carries perhaps the heaviest spiritual responsibility: to be a living example of Christ-consciousness, Buddha-nature, or pure compassion in human form. They are born healers, spiritual avatars, or teachers whose very presence transforms others. With master teacher energy doubled, they possess limitless capacity for love, forgiveness, and service. They are destined to touch countless lives through teaching, healing, or simply being who they are. The challenge is monumental: maintaining human boundaries while embodying divine love, avoiding complete self-sacrifice, and managing the intensity of feeling all beings' suffering. They must remember they are both divine and human. Self-care is not optional—it's sacred. You cannot serve from burnout.",
+        "crystals": [
+            "Rose Quartz",
+            "Selenite"
+        ]
     }
-} 
+}
