@@ -583,6 +583,12 @@ footer a:hover {
         padding: 1.2rem;
     }
 
+    .top-bar {
+        font-size: 0.75rem;
+        height: 40px;
+        letter-spacing: 0.5px;
+    }
+
     .container {
         padding: 1rem;
     }
